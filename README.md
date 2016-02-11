@@ -1,7 +1,7 @@
-### Codec programming tutorials 
+# Codec programming tutorials 
 +follow us [Facebook](https://www.facebook.com/Codec-1623446007916669/)
 
-# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [View the English list](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
