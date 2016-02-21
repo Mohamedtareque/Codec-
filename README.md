@@ -1,6 +1,8 @@
 # Codec programming tutorials 
 +follow us [Facebook](https://www.facebook.com/Codec-1623446007916669/)
+#Arabic resources 
 
+#English resources
 ### Index
 
 * [Bash](#bash)
