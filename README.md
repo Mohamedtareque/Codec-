@@ -1,6 +1,6 @@
 # Codec programming tutorials 
 +follow us [Facebook](https://www.facebook.com/Codec-1623446007916669/)
-#Arabic resources 
+##Arabic resources 
 ###قصص نجاح العظماء فى التاريخ 
 --------------------------------------
 + [قصة نجاح ألبرت إنشتاين ](http://on.fb.me/1GipQAH)
@@ -27,7 +27,7 @@
 
 
 
-#English resources
+##English resources
 ### Index
 
 * [Bash](#bash)
@@ -469,13 +469,82 @@
 
 
 ### Problem Sets and Competitive Programming
-+ [Problem Sets](/problem-sets-competitive-programming.md)
 
 
-Solved Programming Chalenges used to shortlist Candidates for Engineering Positions at various Tech-Firms.
-In case you are applying in one of them, better get cracking!
+List of Challenges
 
-May the Source be with you!
+
+- ~~[Facebook](http://www.facebook.com/careers/puzzles.php)~~
+- ~~[Greplin](http://challenge.greplin.com/)~~
+- ~~[Evernote](https://evernotechallenge.interviewstreet.com/)~~
+- ~~[Palantir](http://www.palantir.com/challenge/)~~
+- [Spotify](https://labs.spotify.com/puzzles/)
+- [Yodle](http://www.yodlecareers.com/puzzles/)
+- [OpenGarden](http://opengarden.com/jobs/)
+- [Dropbox](http://hr.gs/redbluebluered)
+- [Quora](http://www.quora.com/challenges/)
+- [Thumbtack](http://www.thumbtack.com/challenges)
+- [Pocket Gems](http://pocketgems.com/teams/engineering/)
+- [TripleByte](https://triplebyte.com/)
+- [CodeEval](https://www.codeeval.com/open_challenges/)
+- [HackerRank](https://www.hackerrank.com/jobs)
+- [HackerEarth](https://www.hackerearth.com/challenges/)
+- 
+
+### Index
+
+* [Competitive Programming](#competitive-programming)
+* [Problem Sets](#problem-sets)
+
+
+### Competitive Programming
+
+* [4Clojure](http://www.4clojure.com)
+* [Codeabbey](http://www.codeabbey.com)
+* [Codechef](https://www.codechef.com/contests)
+* [Codeeval](https://www.codeeval.com)
+* [Codeforces](http://codeforces.com)
+* [Coderbyte](https://coderbyte.com)
+* [Codewars](http://www.codewars.com)
+* [Codingame](https://www.codingame.com/start)
+* [Facebook Hackercup](https://www.facebook.com/hackercup)
+* [Hackerrank](https://www.hackerrank.com)
+* [Hello World Open](https://helloworldopen.com)
+* [Internet Problem Solving Contest](http://ipsc.ksp.sk)
+* [Just another Golf Coding](http://jagc.org)
+* [Microcorruption](https://microcorruption.com/login)
+* [Saratov State University](http://acm.sgu.ru/index.php)
+* [Topcoder](https://www.topcoder.com)
+
+
+### Problem Sets
+
+* [Anarchy Golf](http://golf.shinh.org)
+* [CareerCup](http://www.careercup.com)
+* [CheckIO](http://www.checkio.org)
+* [CodeHunt](https://www.codehunt.com)
+* [Codility](https://codility.com/programmers/)
+* [Coding Bat](http://codingbat.com/java)
+* [Exercism](http://exercism.io)
+* [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
+* [Hacker.org](http://www.hacker.org)
+* [HackerEarth](https://www.hackerearth.com)
+* [InterviewBit](https://www.interviewbit.com)
+* [Leetcode](https://leetcode.com)
+* [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
+* [PEG Judge](http://wcipeg.com)
+* [PKU Online Judge](http://poj.org)
+* [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
+* [ProblemBook.NET](http://problembook.net/content/en/index.html)
+* [Project Euler](https://projecteuler.net)
+* [Python Practice Projects](http://pythonpracticeprojects.com)
+* [Rosalind](http://rosalind.info/problems/locations/)
+* [Sphere Online Judge](http://www.spoj.com)
+* [TalentBuddy](http://www.talentbuddy.co/blog/)
+* [Timus Online Judge](http://acm.timus.ru)
+* [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
+* [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
+
 
 
 List of Challenges
