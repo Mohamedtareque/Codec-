@@ -1,5 +1,5 @@
 # Codec programming tutorials 
-+follow us [Facebook](https://www.facebook.com/Codec-1623446007916669/)
+follow us [Facebook](https://www.facebook.com/Codec-1623446007916669/)
 ##Arabic resources 
 ###قصص نجاح العظماء فى التاريخ 
 --------------------------------------
