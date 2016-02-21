@@ -1,6 +1,31 @@
 # Codec programming tutorials 
 +follow us [Facebook](https://www.facebook.com/Codec-1623446007916669/)
 #Arabic resources 
+###قصص نجاح العظماء فى التاريخ 
+--------------------------------------
++ [قصة نجاح ألبرت إنشتاين ](http://on.fb.me/1GipQAH)
++ [ قصة موؤسس الواتس أب ] (http://on.fb.me/1GipUjU)
+
+
+###سلسلة البوستات الخاصة بتعلم البرمجة والسوفت وير للمبتدئين 
++ [ماذا قال عباقرة البرمجة فى فيديو قصير ](http://on.fb.me/1NeDrz3)
++ [ نصائح وخبرات للعاملين فى مجال الـ IT من الواقع ] (http://on.fb.me/1NyVlfd)
++ [ إزاى اتعلم البرمجة مع م/ أحمد صيام ] (http://on.fb.me/1ie8hxH)
++ [ مقدمة للمقبلين على البرمجة ] (http://on.fb.me/1kHyQfp)
++ [ بأى لغة ابدأ ] (http://on.fb.me/1kHyYeV)
++ [البرامج مفتوحة ومغلقة المصدر] (http://on.fb.me/1LpsSLb)
++ [إزاى اتعلم وأهمية البحث ] (http://on.fb.me/1ZTixfo )
++ [إزاى تكون مبرمج ويب - الجزء الأول ]( http://on.fb.me/1OQgscd)
++ [إزاى تكون مبرمج ويب ابن ناس - الجزء الثانى ](http://on.fb.me/1SDU9fz)
++ [ما هو الانترنت؟ - الجزء الأول]( http://on.fb.me/1mQ30z9)
++ [ما هو الانترنت؟ - الجزء الثانى]( http://on.fb.me/1OYVcHv)
++ [The Compiled Programming Languages - C++ & C](http://on.fb.me/1MW0ujU) 
++ [The Interpreted Scripting Languages : JS & PHP]( http://on.fb.me/1PbttPJ  )
++ [يعنى ايه Agile - الجزء الأول]( http://on.fb.me/1ie8LUG)
++ [يعنى ايه Agile - الجزء التانى ](http://on.fb.me/1ie9rt2)
++ [إزاى تتعلم إنجليزى - تجربتى ]( http://on.fb.me/1jQm3ab)
+
+
 
 #English resources
 ### Index
